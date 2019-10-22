@@ -6,7 +6,7 @@ class Lesson_12_Activity_Four {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("What is the temperature? ");
 		double a = scan.nextDouble();
-		if (99 <= a || a >= 102){
+		if (a < 99 || a > 102){
 			System.out.println("WARNING");
 		} 
 	}
