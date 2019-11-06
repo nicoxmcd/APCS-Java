@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class Assignment_4_String Shortener {
     public static void main(String[] args)
     {
         System.out.println("Type the message to be shortened");
@@ -29,3 +29,4 @@ class Main {
             System.out.println("This doesn't need shortening!");
         }
     }
+}
