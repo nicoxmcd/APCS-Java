@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class Lesson_32_Activity_Four {
       
     public static void realTime(int x){
 int hours = (x/3600);
